@@ -1,0 +1,18 @@
+[
+    {
+        "question": "which team is Messi playing for now?",
+        "expected_answer": "Lionel Messi is playing for Inter Miami FC",
+        "generated_answer": "Lionel Messi is currently playing for Inter Miami FC in Major League Soccer (MLS).",
+        "rouge1": 0.7272727272727273,
+        "rougeL": 0.7272727272727273,
+        "cosine_similarity": 0.9373515248298645
+    },
+    {
+        "question": "Summary of match developments between Messi's team & opponent team",
+        "expected_answer": "Inter Miami beat Mexican superpower Club America 3-2 on penalty kicks after the teams played to a 2-2 deadlock in regulation.",
+        "generated_answer": "Inter Miami beat Club America 3-2 in a penalty shootout after the teams played to a 2-2 deadlock in regulation. This is Inter Miami's first preseason win.",
+        "rouge1": 0.7169811320754716,
+        "rougeL": 0.7169811320754716,
+        "cosine_similarity": 0.8368331789970398
+    }
+]
